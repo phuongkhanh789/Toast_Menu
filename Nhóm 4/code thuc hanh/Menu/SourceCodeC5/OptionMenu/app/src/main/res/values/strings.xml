@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Option Menu</string>
+    <string name="menu_Settings">Settings</string>
+    <string name="menu_Tools">Tools</string>
+    <string name="menu_Exit">Exit</string>
+</resources>

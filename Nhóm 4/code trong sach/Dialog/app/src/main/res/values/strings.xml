@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="dialog_name">Demo Dialog</string>
+    <string name="btn_name">Thoát</string>
+</resources>

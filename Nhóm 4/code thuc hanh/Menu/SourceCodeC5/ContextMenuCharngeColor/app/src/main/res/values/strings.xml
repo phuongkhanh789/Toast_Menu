@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Context Menu Charnge Color</string>
+    <string name="txt_name">Change Color</string>
+    <color name="color_Red">#FF0000</color>
+    <color name="color_Green">#008000</color>
+    <color name="color_Blue">#000080</color>
+</resources>

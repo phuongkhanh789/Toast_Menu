@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="customdialog_name">Demo Custom Dialog</string>
+    <string name="btn_name">Show Dialog</string>
+</resources>

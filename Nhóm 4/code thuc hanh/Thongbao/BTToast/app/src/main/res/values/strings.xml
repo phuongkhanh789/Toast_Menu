@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BTToast</string>
+    <string name="btnShowToast_Test">Show Toast</string>
+    <string name="btnExit_Text">Exit</string>
+</resources>
